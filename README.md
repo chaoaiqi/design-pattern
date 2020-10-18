@@ -3,3 +3,5 @@
 #### [迭代器模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/iterator)
 #### [适配器模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/adapter)
 #### [模板方法模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/template)
+#### [工厂模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/factory) （简单工厂模式，工厂方法模式，抽象工厂模式）
+
