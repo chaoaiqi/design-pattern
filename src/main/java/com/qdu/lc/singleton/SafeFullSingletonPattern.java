@@ -14,7 +14,8 @@ public class SafeFullSingletonPattern {
     }
 
     static class Singleton {
-
+        // 之所以不安全是因为没有加volatile，会造成指令重排
+//        private static volatile Singleton instance;
         private static Singleton instance;
 
         private Singleton() {
