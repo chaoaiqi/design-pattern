@@ -8,4 +8,5 @@
 #### [外观模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/facade)
 #### [构造器模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/builder)
 #### [原型模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/prototype)
+#### [中介者模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/mediator)
 
