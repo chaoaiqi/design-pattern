@@ -14,4 +14,5 @@
 #### [命令模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/command/CommandPattern.java)
 #### [组合模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/composite)
 #### [策略模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/strategy)
+#### [状态模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/state/StatePattern.java)
 
