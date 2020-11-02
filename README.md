@@ -12,4 +12,5 @@
 #### [代理模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/proxy/ProxyPattern.java)
 #### [观察者模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/observer/ObserverPattern.java)
 #### [命令模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/command/CommandPattern.java)
+#### [组合模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/composite)
 
