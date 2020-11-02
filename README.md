@@ -7,4 +7,5 @@
 #### [单例模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/singleton) （饱汉模式，饿汉模式）
 #### [外观模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/facade)
 #### [构造器模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/builder)
+#### [原型模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/prototype)
 
