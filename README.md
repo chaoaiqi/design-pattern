@@ -16,4 +16,5 @@
 #### [策略模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/strategy)
 #### [状态模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/state/StatePattern.java)
 #### [备忘录模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/memento/MementoPattern.java)
+#### [享元模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/flyweight/FlyweightPattern.java)
 
