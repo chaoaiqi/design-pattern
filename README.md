@@ -19,4 +19,5 @@
 #### [享元模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/flyweight/FlyweightPattern.java)
 #### [装饰器模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/decorator/DecoratorPattern.java)
 #### [责任链模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/chain)
+#### [桥接模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/bridge/BridgePattern.java)
 
