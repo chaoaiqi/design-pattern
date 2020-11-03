@@ -20,4 +20,4 @@
 #### [装饰器模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/decorator/DecoratorPattern.java)
 #### [责任链模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/chain)
 #### [桥接模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/bridge/BridgePattern.java)
-
+#### [访问者模式](https://github.com/chaoaiqi/design-pattern/tree/master/src/main/java/com/qdu/lc/visitor/VisitorPattern.java)
